@@ -1,1 +1,1 @@
-This mod is about adding variants of the piston, and other additions/changes to the piston mechanics.
+This mod was an experiment in changing piston behaviours in minecraft.
